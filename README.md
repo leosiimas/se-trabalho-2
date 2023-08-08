@@ -15,17 +15,17 @@ comando
 ```
 
 Os algoritmos podem ser executados separadamente com os seguintes comando
-**|Comando|Execução|
+| Comando | Execução |
 |----|----|
-|make  generate|Executa apenas o gerador de numeros. Para alterar a quantidade de números, altere a variavel 'totalNumbers'|
-|make  algoritmo*_*linguagem*|Para executar os algoritmos separados, onde algoritmo: bucket, counting ou radix e linguagem: c, go, py|
-|make y|Executa todos os algoritmos em python|
-|make c|Executa todos os algoritmos em c|
-|make go|Executa todos os algoritmos em go|
-|make bucket|Executa todos algoritmos com implementação do bucket sort|
-|make counting|Executa todos algoritmos com implementação do counting sort|
-|make radix|Executa todos algoritmos com implementação do radix sort|
-|make all|Executa todos os algoritmos, generate => bucket(c, go, python) => counting(c, go, python) => radix(c, go, python)|
+|make  generate | Executa apenas o gerador de números. Para alterar a quantidade de números, altere a variável 'totalNumbers '|
+|make  *algoritmo _linguagem* | Para executar os algoritmos separados, onde algoritmo: bucket, counting ou radix e linguagem: c, go, py |
+|make py | Executa todos os algoritmos em python |
+|make c | Executa todos os algoritmos em c |
+|make go | Executa todos os algoritmos em go |
+|make bucket | Executa todos algoritmos com implementação do bucket sort |
+|make counting | Executa todos algoritmos com implementação do counting sort |
+|make radix | Executa todos algoritmos com implementação do radix sort |
+|make all | Executa todos os algoritmos, generate => bucket(c, go, python) => counting(c, go, python) => radix(c, go, python) |
 
 
 
