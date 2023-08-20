@@ -1,51 +1,55 @@
 
-all: generate bucket counting
+all: generate bucket counting radix
 
 generate:
 	go run ./number-generator/number-generator.go
 
 bucket_c:
-	gcc -o ./bucket-sort/c/bucket ./bucket-sort/c/bucket.c
-	./bucket-sort/c/bucket
+	gcc -o ./bucket-sort/c/bucket.o ./bucket-sort/c/bucket.c
+	./bucket-sort/c/bucket.o
 
 bucket_go:
-	go run ./bucket-sort/go/bucket.go
+	go build -o ./bucket-sort/go/bucket.o ./bucket-sort/go/bucket.go
+	./bucket-sort/go/bucket.o
 
-bucket_py:
-	python3 ./bucket-sort/python/bucket.py
+bucket_rs:
+	rustc -o ./bucket-sort/rust/bucket.o ./bucket-sort/rust/bucket.rs
+	./bucket-sort/rust/bucket.o
 
-bucket: bucket_c bucket_go bucket_py
+bucket: bucket_c bucket_go bucket_rs
 
 counting_c:
-	gcc -o ./counting-sort/c/counting ./counting-sort/c/counting.c
-	./counting-sort/c/counting
+	gcc -o ./counting-sort/c/counting.o ./counting-sort/c/counting.c
+	./counting-sort/c/counting.o
 
 counting_go:
-	go run ./counting-sort/go/counting.go
+	go build -o ./counting-sort/go/counting.o ./counting-sort/go/counting.go
+	./counting-sort/go/counting.o
 
-counting_py:
-	python3 ./counting-sort/python/counting.py
+counting_rs:
+	rustc -o ./counting-sort/rust/counting.o ./counting-sort/rust/counting.rs
+	./counting-sort/rust/counting.o
 
-counting: counting_c counting_go counting_py
+counting: counting_c counting_go counting_rs
 
 radix_c:
-	gcc -o ./radix-sort/c/radix ./radix-sort/c/radix.c
-	./radix-sort/c/radix
+	gcc -o ./radix-sort/c/radix.o ./radix-sort/c/radix.c
+	./radix-sort/c/radix.o
 
 radix_go:
-	go run ./radix-sort/go/radix.go
+	go build -o ./radix-sort/go/radix.o ./radix-sort/go/radix.go
+	./radix-sort/go/radix.o
 
-radix_py:
-	python3 ./radix-sort/python/radix.py
+radix_rs:
+	rustc -o ./radix-sort/rust/radix.o ./radix-sort/rust/radix.rs
+	./radix-sort/rust/radix.o
 
-radix: radix_c radix_go radix_py
+radix: radix_c radix_go radix_rs
 
 c: bucket_c counting_c  radix_c
 
 go: bucket_go counting_go  radix_go
 
-py: bucket_py counting_py  radix_py
+rs: bucket_rs counting_rs  radix_rs
 
-
-
-.PHONY : generate bucket_c bucket_go bucket_py bucket counting_c counting_go counting_py counting
+.PHONY : generate bucket_c bucket_go bucket_rs bucket counting_c counting_go counting_rs counting

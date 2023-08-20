@@ -3,7 +3,7 @@ sticker: emoji//1f4ca
 ---
 # Trabalho 2
 
-Este trabalho tem como objetivo criar três aplicações que realizam a mesma tarefa, mas com maneira diferentes. Para cada aplicação será feito em três linguagens diferentes, escolhidas: *C*, *Python* e *Go*. 
+Este trabalho tem como objetivo criar três aplicações que realizam a mesma tarefa, mas com maneira diferentes. Para cada aplicação será feito em três linguagens diferentes, escolhidas: *C*, *Rust* e *Go*. 
 
 Os algoritmos escolhidos são: *Bucket Sort*, *Counting Sort* e *Radix Sort*. Esses são três algoritmos de ordenação que executam a mesma tarefa de maneiras diferentes.
 
@@ -18,14 +18,14 @@ Os algoritmos podem ser executados separadamente com os seguintes comando
 | Comando | Execução |
 |----|----|
 |make  generate | Executa apenas o gerador de números. Para alterar a quantidade de números, altere a variável 'totalNumbers '|
-|make  *algoritmo _linguagem* | Para executar os algoritmos separados, onde algoritmo: bucket, counting ou radix e linguagem: c, go, py |
-|make py | Executa todos os algoritmos em python |
+|make  *algoritmo _linguagem* | Para executar os algoritmos separados, onde algoritmo: bucket, counting ou radix e linguagem: c, go, rs |
+|make rs | Executa todos os algoritmos em python |
 |make c | Executa todos os algoritmos em c |
 |make go | Executa todos os algoritmos em go |
 |make bucket | Executa todos algoritmos com implementação do bucket sort |
 |make counting | Executa todos algoritmos com implementação do counting sort |
 |make radix | Executa todos algoritmos com implementação do radix sort |
-|make all | Executa todos os algoritmos, generate => bucket(c, go, python) => counting(c, go, python) => radix(c, go, python) |
+|make all | Executa todos os algoritmos, generate => bucket(c, go, rust) => counting(c, go, rust) => radix(c, go, rust) |
 
 
 
@@ -58,7 +58,6 @@ Antes de mostrar os códigos e os resultados dos testes, é importante entender 
 
 ### *C*
 
-### *Python*
 
 ### *Go*
 
@@ -79,7 +78,26 @@ E para executar qualquer programa em *Golang*:
 go run [arquivo].go
 ```
 
+### *Rust*
+Para utilizar *Rust* no *Ubuntu*, bas apenas executar no terminal:
+```shell
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
 
+Checando a versão:
+```shell
+rustc --version
+```
+
+E para executar qualquer programa em *Rust*, antes é preciso compila-lo:
+```shell
+
+# compila
+rustc -o [arquivo] [arquivo].rs
+
+# executa
+./[arquivo]
+```
 
 ## 
 

@@ -97,8 +97,8 @@ int main()
   fclose(file);
 
   printf("\nIniciando Execucao do Radix Sort em C: \n\n");
-  radixSort(number, size);
-  printArray(number, size);
+  radixSort(numbers, size);
+  printArray(numbers, size);
 
   free(numbers);
 }
