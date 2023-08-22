@@ -31,7 +31,7 @@ func intArrayToBytes(arr []int) []byte {
 func main() {
 	rand.Seed(time.Now().UnixNano())
 
-	totalNumbers := 1000000
+	totalNumbers := 90000000
 	fmt.Printf("\nGerando %d numeros\n\n", totalNumbers)
 	var numbers []string
 

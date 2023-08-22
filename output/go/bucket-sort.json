@@ -1,0 +1,1724 @@
+[
+	{
+		"Language": "GO",
+		"time": "0",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 58.4,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 7.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 4.8,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 32.6,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 5.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "1",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 62,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 20.7,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 19.8,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 45.9,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7.3,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "2",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 62.8,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 17.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.7,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 55.5,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.8,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "3",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 62.8,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 14.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 58.5,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.3,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "4",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 65.3,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15.6,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 58.4,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.3,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "5",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 67.6,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 16.9,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 16.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 58.2,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "6",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 68.5,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.8,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11.6,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 58,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "7",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 69.8,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 17.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 16.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 57.9,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "8",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 70.4,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 18.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 17.9,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 57.7,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "9",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 70.9,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 25.8,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 26.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 57.7,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.1,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "10",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 70.9,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 18.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 18.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 57.7,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.1,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "11",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 70.9,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 20.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 19.9,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 57.9,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "12",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 19.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 17.9,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 57.8,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "13",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.3,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 21.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 20.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 57,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "14",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.3,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 19.7,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 19.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 56.4,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.9,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "15",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.6,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 21.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 20.9,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 46.1,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7.3,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "16",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.6,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 16.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 15.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 44.3,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "17",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.5,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 13.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 12.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 46.1,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7.3,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "18",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.4,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 46.1,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7.3,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "19",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.4,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 46.2,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7.3,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "20",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.4,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 16,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 15,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 46.2,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7.3,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "21",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.3,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 11.8,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 10.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 48.7,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7.7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "22",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.1,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 48.6,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7.7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "23",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.1,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 48.7,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7.7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "24",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.1,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.3,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 48.7,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 7.7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "25",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 11.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 10.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 51.5,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "26",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.6,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11.3,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 51.6,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "27",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.1,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 51.6,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "28",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.1,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 51.6,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.2,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "29",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.1,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.3,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 52.3,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.3,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "30",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 11.6,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 10.3,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 54.8,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "31",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 70.9,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15.3,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 54.8,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "32",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.3,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 54.8,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "33",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 54.8,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "34",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 54.9,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "35",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.1,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.4,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 54.9,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.7,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "36",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11.1,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 59.3,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.4,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "37",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 59.4,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.4,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "38",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.1,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 59.4,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.4,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "39",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.3,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 15,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 14,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 59.4,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.4,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "40",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71.3,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 11.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 59.5,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.4,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "41",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 71,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 12.7,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 10.6,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 34.3,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 5.4,
+				"measure": "GB"
+			}
+		]
+	}
+]

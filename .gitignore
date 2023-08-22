@@ -1,1 +1,3 @@
 *.o
+
+./number-generator/numbers.txt

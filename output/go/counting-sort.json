@@ -1,0 +1,125 @@
+[
+	{
+		"Language": "GO",
+		"time": "0",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 60.9,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 14.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 12.5,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 41.2,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 6.5,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "1",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 65,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 21.2,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 20,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 51,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 8.1,
+				"measure": "GB"
+			}
+		]
+	},
+	{
+		"Language": "GO",
+		"time": "2",
+		"data": [
+			{
+				"Hardware": "CPU",
+				"Metric": "Temperatures",
+				"Sensor": "CPU Package",
+				"Value": 65.5,
+				"measure": "°C"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Package",
+				"Value": 19.6,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Powers",
+				"Sensor": "CPU Cores",
+				"Value": 16.7,
+				"measure": "W"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Load",
+				"Sensor": "Memory",
+				"Value": 59.7,
+				"measure": "%"
+			},
+			{
+				"Hardware": "CPU",
+				"Metric": "Data",
+				"Sensor": "Used Memory",
+				"Value": 9.5,
+				"measure": "GB"
+			}
+		]
+	}
+]
